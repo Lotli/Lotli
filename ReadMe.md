@@ -1,7 +1,7 @@
 # 🌲 About Me:
 🎮 Gamedev<br>💻 Working on my game "King Of The Forest"<br>📖 Learning Arduino, HLSL<br>
 <p style="line-height: 110%"><span style="opacity:0">⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀</span>⣤⣿⣿⣄<br>
-<span style="opacity:0">⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀</span>⣿⣿⣿⣿<br>
+<span style="background-color = rgba(255, 255, 255, 0);">⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀</span>⣿⣿⣿⣿<br>
 <span style="opacity:0">⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀</span>⢀⣤⡶⠛⠙⠻⣿⠛⢷⣄<br>
 <span style="opacity:0">⢀⢀</span>⣠⣤⣤⣤⣶⣶⣶⣶⣶⣤⣤⣀<span style="opacity:0">⢀⢀</span>⣤⡶⠟⠁<span style="opacity:0">⢀⢀⢀⢀</span>⢹⣇<span style="opacity:0">⢀</span>⠻⣦⡀<br>
 <span style="opacity:0">⢀</span>⣼⣯⡼⠋⠁<span style="opacity:0">⢀⢀⢀⢀</span>⣀⣀<span style="opacity:0">⡀</span>⠉⠻⣿⡛⠳⣦<span style="opacity:0">⢀⢀⢀⢀⢀⢀</span>⠹⣆<span style="opacity:0">⢀</span>⠈⠻⣦⡀<br>
